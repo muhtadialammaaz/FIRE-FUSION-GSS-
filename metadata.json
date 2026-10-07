@@ -1,0 +1,6 @@
+{
+  "name": "FireFusion — Harmonized MODIS & VIIRS Fire Event Intelligence",
+  "description": "FireFusion harmonizes MODIS and VIIRS fire observations into an interactive fire-event intelligence platform and Burning Activity Calendar for NASA Space Apps Challenge 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
